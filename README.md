@@ -40,10 +40,23 @@ In the Mask RCNN model, the input image passes through the ResNet-101 which is a
 <img src="https://user-images.githubusercontent.com/94967712/219949499-2c7cdcdb-da53-4bfb-a12f-92e08e8aa487.png" width="65%" height="65%/">
 
 <h2>Results</h2>
-Results from CNN model
+Six classes:
+
+For diseased leaf:
+
+* Potato Early Blight
+* Potato Late Blight
+* Tomato Leaf Mold
+* Tomato Leaf Spot
+
+For healthy leaf:
+* Potato Healthy
+* Tomato Healthy
+
+<h3>Results from CNN model</h3>
 
 <img src="https://user-images.githubusercontent.com/94967712/219949684-b5658d28-1932-4d54-9fd2-90870a02ec34.png" width="65%" height="65%/">
-Results from Mask RCNN model
+<h3>Results from Mask RCNN model</h3>
 
 <img src="https://user-images.githubusercontent.com/94967712/219949727-0822fdfc-0103-4703-9e31-6c597af4de90.png" width="65%" height="65%/">
 
