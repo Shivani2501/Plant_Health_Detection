@@ -1,8 +1,9 @@
 <p align="center"><img src="https://socialify.git.ci/adnan760/Plant_Health_Detection/image?description=1&amp;name=1&amp;pattern=Circuit%20Board&amp;theme=Auto" alt="project-image"></p>
  
 <h2>Motivation</h2>
-*  To use deep learning techniques namely CNN and Mask RCNN in detecting plant diseases at an early stage based on respective plant leaves.
-*  Performance analysis of proposed deep learning techniques to help choose the right model based on the needs.
+
+*   To use deep learning techniques namely CNN and Mask RCNN in detecting plant diseases at an early stage based on respective plant leaves.
+*   Performance analysis of proposed deep learning techniques to help choose the right model based on the needs.
   
 <h2>Features</h2>
 
