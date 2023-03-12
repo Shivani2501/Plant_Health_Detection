@@ -8,7 +8,7 @@
 <h2>Features</h2>
 
 *   Simplified disease detection on potato and tomato plant leaves by CNN approach.
-*   Detailed disease detection on potato and tomato plant leaves, higlighting the affected regions by Mask RCNN approach.
+*   Detailed disease detection on potato and tomato plant leaves, highlighting the affected regions by Mask RCNN approach.
 *   Detection of healthy leaves of these plant species by CNN and Mask RCNN approach. 
 
 <h2>Dataset</h2>
